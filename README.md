@@ -3,6 +3,9 @@ This project is based on:
 [絶対に解けない数学問題!?世界一難しい論理クイズ](https://youtu.be/d987q7bCB_g) by [ナゾトキラボ](https://www.youtube.com/@nazotokilab)
 @YouTube.
 
+## Idea
+The idea is that an 8x8 Othello board can be represented in a binary, 
+and one can express a number from 1-64 using the board.
 
 ## 各桁の値の判定法について
 参考:
