@@ -4,3 +4,7 @@ This project is based on:
 @YouTube.
 
 
+## 各桁の値の判定法について
+参考:
+
+- [3桁の整数からそれぞれの桁の数字を取り出す](https://qiita.com/mi226529/items/9f2c63c2c3fef5e5570f)
